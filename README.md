@@ -1,4 +1,4 @@
-# Hacker-Hustler-
+# Hacker-Hustler
 NYU Project website 
 A platform that connects students with non-tech skills to students with tech skills to help build dreams together.
 
